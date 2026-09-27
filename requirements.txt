@@ -21,4 +21,4 @@ mkautodoc==0.2.0
 
 # Packaging
 build==0.10.0
-twine==4.0.2
+twine==7.0.0
